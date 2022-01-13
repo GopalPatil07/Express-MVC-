@@ -1,5 +1,5 @@
 ## Express-MVC
-
+#### Only fetching the details from mysql to browser
 ### Commands 
  * npm init -y            => To get the package.json file
  * npm install express    => To install the express(package-lock.json and node modules)
